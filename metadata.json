@@ -1,9 +1,48 @@
 {
-  "name": "yum_repo",
+  "name": "vamegh-yum_repo",
   "version": "0.0.1",
   "author": "Vamegh Hedayati",
   "summary": "Simple module to add yum repos using Hiera",
   "license": "Apache Version 2.0",
-  "source": "https://github.com/vamegh/repo",
-  "project_page": "https://github.com/vamegh/repo"
+  "source": "https://github.com/vamegh/yum_repo",
+  "project_page": "https://github.com/vamegh/yum_repo",
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "RedHat",
+      "operatingsystemrelease": [
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "operatingsystem": "CentOS",
+      "operatingsystemrelease": [
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "operatingsystem": "OracleLinux",
+      "operatingsystemrelease": [
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "operatingsystem": "Scientific",
+      "operatingsystemrelease": [
+        "5",
+        "6",
+        "7"
+      ]
+    }
+  ],
+  "requirements": [
+  ],
+  "description": "Simple module to add yum repos using Hiera",
+  "dependencies": [
+  ]
 }
