@@ -5,5 +5,5 @@
   "summary": "Simple module to add yum repos using Hiera",
   "license": "Apache Version 2.0",
   "source": "https://github.com/vamegh/repo",
-  "project_page": "https://github.com/vamegh/repo"
+  "project_page": "https://github.com/vamegh/repo",
 }
